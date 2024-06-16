@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RiskaYurianda
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity and Unreal Engine
+- 🌱 I’m currently learning Unity 
 
 
 <!---
